@@ -32,7 +32,7 @@ npm install -g prisma
 
 **Video and slide links**
 
-- [Slides](#)
+- [Slides](https://docs.google.com/presentation/d/1iEO3FqshI_dH-cv3HHxHEWQfJmN0xxdtIIOcOUTKe20/edit?usp=sharing)
 - [Video](#)
 
 

@@ -32,7 +32,7 @@ npm install -g prisma
 
 **Development Database**
 
-If you already have a local MySQL or PostgreSQL database running on your computer you are good to go. If you do not we suggest installing [Docker](https://www.docker.com/) on to your computer. You can find [Mac install](https://store.docker.com/editions/community/docker-ce-desktop-mac) or [Windows install](https://store.docker.com/editions/community/docker-ce-desktop-windows) instrucations [here](https://www.docker.com/get-started).
+If you already have a local MySQL or PostgreSQL database running on your computer, you are good to go. If you do not, we suggest installing [Docker](https://www.docker.com/) on to your computer. You can find [Mac install](https://store.docker.com/editions/community/docker-ce-desktop-mac) or [Windows install](https://store.docker.com/editions/community/docker-ce-desktop-windows) instructions [here](https://www.docker.com/get-started).
 
 
 **Video and slide links**
@@ -42,7 +42,15 @@ If you already have a local MySQL or PostgreSQL database running on your compute
 
 **Extra Resources**
 
+If you want to dive deeper into Prisma below are some resources to help you along the way.
 
+- [Getting Started](https://www.prisma.io/docs/get-started/01-setting-up-prisma-demo-server-a001/), Prisma Docs
+- [GraphQL.com](http://graphql.com)
+- [GraphQL: The Good Parts](https://www.youtube.com/watch?v=1c4M7fYs1Jk), Coding Tech, YouTube
+- [Trying out Prisma GraphQL](https://www.youtube.com/watch?v=_AjlQ64f-64&t), Ben Awad, YouTube
+- [Johannes Schickling - Building GraphQL-Native Microservices](https://www.youtube.com/watch?v=WhYjSFKNhBA), 
+Apollo GraphQL, YouTube
+- [Prisma Examples](https://github.com/prisma/prisma-examples), Prisma, GitHub
 
 
 ## Part 3

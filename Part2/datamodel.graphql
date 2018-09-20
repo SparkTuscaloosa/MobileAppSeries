@@ -2,3 +2,47 @@ type User {
   id: ID! @unique
   name: String!
 }
+
+enum QuestionType {
+  MULTILINE,
+  SINGLELINE,
+  MULTISELECT,
+  SINGLESELECT,
+  YESNO,
+  HIDDEN,
+  RANGE
+}
+
+type Survey {
+  id: ID! @unique
+  title: String!
+  description: String!
+  questions: [Question!]!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type Question {
+  id: ID! @unique
+  type: QuestionType
+  question: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+  answers: [Answer!]!
+  survey: Survey!
+}
+
+type Answer {
+  id: ID! @unique
+  answer: String
+  question: Question!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+}
+
+type Response {
+  id: ID! @unique
+  question: Question!
+  answers: [Answer!]!
+  user: User!
+}

@@ -30,10 +30,19 @@ Next, you will need to install Prisma via NPM. NPM is Node's package/library man
 npm install -g prisma 
 ```
 
+**Development Database**
+
+If you already have a local MySQL or PostgreSQL database running on your computer you are good to go. If you do not we suggest installing [Docker](https://www.docker.com/) on to your computer. You can find [Mac install](https://store.docker.com/editions/community/docker-ce-desktop-mac) or [Windows install](https://store.docker.com/editions/community/docker-ce-desktop-windows) instrucations [here](https://www.docker.com/get-started).
+
+
 **Video and slide links**
 
 - [Slides](https://docs.google.com/presentation/d/1iEO3FqshI_dH-cv3HHxHEWQfJmN0xxdtIIOcOUTKe20/edit?usp=sharing)
 - [Video](#)
+
+**Extra Resources**
+
+
 
 
 ## Part 3

@@ -9,7 +9,7 @@ In this series we'll introduce you to some basic skills needed to build your fir
 We will be using [Ionic Creator](https://creator.ionic.io/) to build the front-end and [Prisma](https://www.prisma.io/) to build the backend. The app we are building utilizes [GraphQL](https://www.graphql.com/) to allow the front-end and backend to communicate.
 
 
-### Part 1
+## Part 1
 
 Part one of the series requires you to have an Ionic Creator account. You can signup for an account, [here](https://creator.ionic.io/).
 
@@ -18,7 +18,7 @@ Part one of the series requires you to have an Ionic Creator account. You can si
 - [Slides](https://docs.google.com/presentation/d/1HmW5qfRRk68GWMqCIkAeMSYShpXU89UAqnUGFCbB0e0/edit?usp=sharing)
 - [Video](https://youtu.be/Xoj5nNQoOYI)
 
-### Part 2
+## Part 2
 
 If you would like to participate in part 2 of this series you need to do a little work beforehand. 
 

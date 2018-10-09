@@ -38,7 +38,7 @@ If you already have a local MySQL or PostgreSQL database running on your compute
 **Video and slide links**
 
 - [Slides](https://docs.google.com/presentation/d/1iEO3FqshI_dH-cv3HHxHEWQfJmN0xxdtIIOcOUTKe20/edit?usp=sharing)
-- [Video](#)
+- [Video](https://youtu.be/9cOltNl1X5w)
 
 **Extra Resources**
 
